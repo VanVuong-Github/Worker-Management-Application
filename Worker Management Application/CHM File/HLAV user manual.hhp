@@ -1,0 +1,12 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HLAV user manual.chm
+Contents file=About.hhc
+Default topic=About.html
+Display compile progress=No
+Index file=Index.hhk
+Language=0x42a Vietnamese (Vietnam)
+
+
+[INFOTYPES]
+
